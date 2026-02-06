@@ -52,10 +52,6 @@ Region: East US
 - **Running**: ~$0.02-0.05/hour
 - **Total**: < $1 with cleanup
 
-## 📸 Screenshots
-
-![Azure Portal - Container Running](screenshots/container-running.png)
-![Live Application](screenshots/live-app.png)
 
 ## 🎓 Learning Outcomes
 Successfully deployed containerized application to Azure, demonstrating modern cloud deployment patterns.
